@@ -2,17 +2,28 @@
 Projeto campanha meu time do coração.
 
 ### Tecnologias Utilizadas ###
-Java versão 8, 
-JPA / Hibernate, 
-Banco de dados Oracle, 
-Maven, 
-Spring, 
-Spring-boot, 
-Spring Data JPA, 
-Jackson, 
-Ojdbc6, 
-Projeto Lombok, 
-Jetty, 
+Java versão 8;
+
+JPA / Hibernate;
+
+Banco de dados Oracle;
+
+Maven;
+
+Spring;
+
+Spring-boot;
+
+Spring Data JPA;
+
+Jackson;
+
+Ojdbc6;
+
+Projeto Lombok;
+
+Jetty;
+
 HikariCP
 
 ### Camadas e pacotes ###
